@@ -8,7 +8,7 @@ public class PriorityQueueTests
     [TestMethod]
     // Scenario: 
     // Expected Result: 
-    // Defect(s) Found: 
+    // Defect(s) Found: Failed with message "Assert.Fail failed. Implement the test case and then remove this."Defect(s) Found: Test not yet implemented.
     public void TestPriorityQueue_1()
     {
         var priorityQueue = new PriorityQueue();
